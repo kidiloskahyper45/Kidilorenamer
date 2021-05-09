@@ -10,10 +10,10 @@ class Translation( object ):
     SAVED_RECVD_DOC_FILE = "<b>✔️ Media Downloaded Successfully</b>"
     ACCESS_DENIED_TEXT = "You are not authorized to use this Bot."
     START_TEXT = "Hello.. <b>{}</b>\n\n<b>Myself:</b> {}\n\n<b>I can do a lot of things with your files</b>\n\n" \
-                 "<i>Send filename + extension (Eg: terminator.mkv) as a reply to any telegram media, and follow " \
+                 "<i>send a media and Nokki irikka 2 minitu karayam🤧 " \
                  "Bot's instructions.</i>\n\n" \
-                 "<b>My Author is: </b><a href='https://t.me/space4renjith'>                HERE</a>\n" \
-                 "<b>My code can be seen: </b><a href='https://github.com/m4mallu/renameprobot'> HERE</a>\n\n" \
+                 "<b>My Thera nap😂: </b><a href='https://t.me/Awalker96'>                HERE</a>\n" \
+                 "<b>My code choych nokk: </b><a href='https://t.me/Awalker96'> HERE</a>\n\n" \
                  "<i> Have a nice day</i> 😍"
     SETTINGS_TEXT = "<b>These are my available options:</b>"
     THUMB_CAPTION = "<code>This image is your current thumbnail, Tap</code><b> DEL THUMB </b><code>if you wish to " \
@@ -25,13 +25,13 @@ class Translation( object ):
     DEL_THUMB_CONFIRM = "⚠️ <b>Do you wish to remove thumbnail?</b>\n<code>Thumbnail won't be available in the files " \
                         "when you delete it!</code> "
     FILE_TYPE_SELECT = "<b>Select the format for File name:</b>\n👉 {}"
-    INPUT_ERROR = "<b>⚠️ Invalid input:</b>️\n<code>Input the file name as replay to the above message and " \
+    INPUT_ERROR = "<b>⚠️ Invalid input:</b>️\n<code>Input poderka Ivide onnum illa 🤣 " \
                   "check the supported extensions in welcome message !</code> "
     EXTENSIONS = ['.mkv', '.mp4', '.avi', '.webm']
     NO_SPAM_MSG = "⚠️ <b>Don't Spam Here</b>\n<code>Read the welcome message for better use of this bot !</code>"
     MAKE_A_COPY_TEXT = "📚 <code>Need a copy ?</code>"
-    FINISHED_PROGRESS_STR = "◼️"
-    UN_FINISHED_PROGRESS_STR = "◻️"
+    FINISHED_PROGRESS_STR = "🤤"
+    UN_FINISHED_PROGRESS_STR = "😅"
     CAPTION_TEXT = "<b>{}</b>"
     SUCCESSFUL_SEND = "<code>Forwarded Successfully to:</code>\n<b>{}</b>"
     FORWARD_ERROR = "<b>⚠️ Attention :</b>\n<code>Make Sure That I am Admin in Your Channel or Provided Channel " \
